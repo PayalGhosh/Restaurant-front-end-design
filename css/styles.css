@@ -17,9 +17,9 @@
 }
 
 .jumbotron{
-    padding:70px 30px 70px 30px;
+    padding:70px 30px 70px 30px !important;
     margin:0px auto;
-    background-color:#9575cd;
+    background-color:#9575CD !important;
     color:floralwhite;
 }
 
