@@ -60,3 +60,11 @@ body{
     left: 0;
     min-height: 300px;
 }
+.btn-primary-spacing{
+    margin-right:5px !important;
+}
+#carouselButtons{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
